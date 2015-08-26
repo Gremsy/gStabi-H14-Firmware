@@ -10,6 +10,7 @@ Download the latest version [here](https://github.com/Gremsy/gStabi-H16-Firmware
 - [Download USB Driver](https://www.silabs.com/products/mcu/Pages/USBtoUARTBridgeVCPDrivers.aspx)
 - Connect gStabi system to your Laptop, PC or Mac
 - Switch on the system, DON'T Turn Motors on
+
 ## Doing:
  - Follow instruction on the software screen
  
