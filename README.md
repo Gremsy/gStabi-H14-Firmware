@@ -23,3 +23,7 @@ Download the latest version [here](https://github.com/Gremsy/gStabi-H14-Firmware
 
 ## HowTo Video:
 ![Walkthrough Video](UpgradeFirmwareWalkthrough.gif)
+
+# Support:
+Email: support@gremsy.com
+Website: www.gremsy.com
