@@ -21,4 +21,4 @@ Download the latest version [here](https://github.com/Gremsy/gStabi-H16-Firmware
 
 2/ Hard reset: Swith Off and On again.
 
-[Walkthrough Video](UpgradeFirmwareWalkthrough.gif)
+![Walkthrough Video](UpgradeFirmwareWalkthrough.gif)
