@@ -2,7 +2,7 @@
 Firmware for gStabi H14 system developed and made by Gremsy Co., Ltd, made in Vietnam
 
 # Download firmware
-Download the latest version [here](https://github.com/Gremsy/gStabi-H16-Firmware/releases)
+Download the latest version [here](https://github.com/Gremsy/gStabi-H14-Firmware/releases)
 
 # Install on gStabi System controller
 ## Prepare:
