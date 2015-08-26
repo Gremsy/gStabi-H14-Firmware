@@ -13,4 +13,12 @@ Download the latest version [here](https://github.com/Gremsy/gStabi-H16-Firmware
 
 ## Doing:
  - Follow instruction on the software screen
- 
+
+## After:
+### Reset system:
+#### 2 options:
+1/ Using software --> Connection --> Disconnect and Connect again to reset system
+
+2/ Hard reset: Swith Off and On again.
+
+[Walkthrough Video](UpgradeFirmwareWalkthrough.gif)
