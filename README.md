@@ -9,7 +9,7 @@ Download the latest version [here](https://github.com/Gremsy/gStabi-H14-Firmware
 - Download [gStabiAssistant Software](https://github.com/Gremsy/gStabi-Software/releases)
 - [Download USB Driver](https://www.silabs.com/products/mcu/Pages/USBtoUARTBridgeVCPDrivers.aspx)
 - Connect gStabi system to your Laptop, PC or Mac
-- POWER ON the system by turn the Switch ON, DON'T Turn Motors on
+- POWER ON the system by turning the Switch ON, DON'T Turn Motors on
 
 ## Doing:
  - Follow instruction on the software screen
