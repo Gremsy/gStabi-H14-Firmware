@@ -10,7 +10,7 @@ Download the latest version [here](https://github.com/Gremsy/gStabi-H14-Firmware
 - [Download USB Driver](https://www.silabs.com/products/mcu/Pages/USBtoUARTBridgeVCPDrivers.aspx)
 - POWER ON the system by turning the Switch ON, DON'T Turn Motors on
 - Unplug Remote Receiver (SBUS, JR, …) if it was plugged to gStabi system.
-– Connect gStabi controller to you Mac or PC by USB 2.0 A to Mini-B Cable.
+- Connect gStabi controller to you Mac or PC by USB 2.0 A to Mini-B Cable.
 
 ## Doing:
  - Follow instruction on the software screen
